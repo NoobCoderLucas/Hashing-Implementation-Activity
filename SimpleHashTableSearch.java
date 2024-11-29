@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class HashTableSearch {
+public class SimpleHashTableSearch {
     private LinkedList<Integer>[] table;
 
 
