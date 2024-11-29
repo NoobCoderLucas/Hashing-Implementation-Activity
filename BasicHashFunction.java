@@ -1,4 +1,4 @@
-public class HashFunction {
+public class BasicHashFunction {
     public static int hashFunction(String key, int tableSize) {
         int hash = 0;
         for (char c : key.toCharArray()) {
