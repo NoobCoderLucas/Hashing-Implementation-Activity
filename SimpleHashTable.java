@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class HashTable {
+public class SimpleHashTable {
     private LinkedList<Integer>[] table;
 
     public SimpleHashTable(int size) {
